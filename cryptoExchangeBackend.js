@@ -9,9 +9,9 @@ app.use(bodyParser.json());
 
 // Initialize Oracle SQL pool
 const dbConfig = {
-  user: 'hrcrypto',
-  password: 'hr',
-  connectString: 'localhost:1521/orclpdb',
+  user: 'hrcrypto', //your_oracle_db_username
+  password: 'hr', //your_oracle_db_password
+  connectString: 'localhost:1521/orclpdb', //your_oracle_db_connection_string
 };
 
 // Create a pool
