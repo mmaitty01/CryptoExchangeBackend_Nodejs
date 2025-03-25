@@ -76,8 +76,7 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/cryptocurrency-exchange-backend.git
-   cd cryptocurrency-exchange-backend
+   git clone https://github.com/mmaitty01/CryptoExchangeBackend_Nodejs.git
     ```
 
 2. Install dependencies:
